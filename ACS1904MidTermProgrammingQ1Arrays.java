@@ -9,7 +9,7 @@ import java.util.Arrays;
  * @Sveinson 
 */
 
-public class AssignmentTemplate{
+public class ACS1904MidTermProgrammingQ1Arrays{
     public static void main(String[] args)throws FileNotFoundException {
         final int MAX = 15;
         int[] list = new int[MAX];
